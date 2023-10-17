@@ -1,0 +1,13 @@
+Added Component: Designator=J?(10018784-10210TLF-SOCKET)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.no/en/products/detail/amphenol-icc-fci/10018784-10210TLF/1002344"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CONN PCI EXP FEMALE 36POS 0.039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "609-2029-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J?(10018784-10210TLF-PCB)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.no/en/products/detail/amphenol-icc-fci/10018784-10210TLF/1002344"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CONN PCI EXP FEMALE 36POS 0.039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "609-2029-ND"; VariantName = "[No Variations]"
+Added Class: Name=schematic
