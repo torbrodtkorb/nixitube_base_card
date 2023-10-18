@@ -1,0 +1,4 @@
+Added Component: Designator=J?(BarrelJack)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.no/en/products/detail/cui-devices/PJ-002A/96962"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=schematic Member=Component J? dc-jack

@@ -97,7 +97,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LMCLDRVR
 
 [Document4]
 DocumentPath=lib\component-library\connector.SchLib
@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EYLPAZAD
 
 [Document5]
 DocumentPath=lib\component-library\cpu.PcbLib
@@ -301,7 +301,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JHTFMBCV
 
 [Document16]
 DocumentPath=lib\component-library\passive.SchLib
@@ -318,7 +318,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BLDUIPCI
 
 [Document17]
 DocumentPath=lib\component-library\sensor.PcbLib
@@ -352,7 +352,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RKJMYYND
 
 [Document19]
 DocumentPath=lib\component-library\transistor.PcbLib
@@ -423,7 +423,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document23]
-DocumentPath=lib\component-library\nixie.PcbLib
+DocumentPath=lib\component-library\nixie_kok.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -440,7 +440,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TCHXIMFX
 
 [Document24]
-DocumentPath=lib\component-library\nixie.SchLib
+DocumentPath=lib\component-library\nixie_kok.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -455,6 +455,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HACWHGPI
+
+[Document25]
+DocumentPath=lib\component-library\nixie.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VNSIYCLB
+
+[Document26]
+DocumentPath=lib\component-library\nixie.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VMFCXCZG
 
 [Configuration1]
 Name=Sources
