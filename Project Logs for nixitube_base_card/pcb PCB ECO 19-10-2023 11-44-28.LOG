@@ -1,0 +1,5 @@
+Change component parameters: Designator = "*" ("*"); Footprint = "SOIC-8"; UniqueID = "\XCAOPWTT" ("\XCAOPWTT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://no.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX1771CSA+?qs=1THa7WoU59HAVajYWe%2BFOg%3D%3D&utm_source=OEMSecrets&utm_medium=aggregator&utm_campaign=MAX1771CSA+&utm_term=MAX1771CSA&utm_content=Analog+Devices+Inc."; VariantName = "[No Variations]"
+Added Component: Designator=*(Potentiometer_Bourns_3214J_Horizontal)
+Added Member To Class: ClassName=schematic Member=Component * R_POT_US

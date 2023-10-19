@@ -1,0 +1,4 @@
+Add Component: Footprint Not Found TAJ seris
+Added Member To Class: ClassName=schematic Member=Component * R_POT_US
+Added Member To Class: ClassName=schematic Member=Component * MAX1771
+Add Class Member: Failed to add class member : Component C? Tantal-kondensatorer

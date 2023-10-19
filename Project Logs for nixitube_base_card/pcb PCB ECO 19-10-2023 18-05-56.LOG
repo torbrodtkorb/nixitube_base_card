@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Add Component: Footprint Not Found TAJ seris
+Added Component: Designator=J1(BarrelJack)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.no/en/products/detail/cui-devices/PJ-002A/96962"; VariantName = "[No Variations]"
+Added Component: Designator=P1(Potentiometer_Bourns_3214J_Horizontal)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.no/no/products/detail/bourns-inc/3214W-1-503E/248433?s=N4IgTCBcDaIEIHkCqAlAcgZQAQGYwEYAWAdQFp9SBWABhwFEQBdAXyA"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://no.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX1771CSA+?qs=1THa7WoU59HAVajYWe%2BFOg%3D%3D&utm_source=OEMSecrets&utm_medium=aggregator&utm_campaign=MAX1771CSA+&utm_term=MAX1771CSA&utm_content=Analog+Devices+Inc."; VariantName = "[No Variations]"
+Add Class Member: Failed to add class member : Component C1 Tantal-kondensatorer
+Added Member To Class: ClassName=schematic Member=Component J1 dc-jack
+Added Member To Class: ClassName=schematic Member=Component P1 R_POT_US
+Added Member To Class: ClassName=schematic Member=Component U2 cpu_7

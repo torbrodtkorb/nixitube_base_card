@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=* NewDesignator=*2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Add Component: Footprint Not Found TAJ seris
+Added Member To Class: ClassName=schematic Member=Component *1 R_POT_US
+Added Member To Class: ClassName=schematic Member=Component *2 MAX1771
+Add Class Member: Failed to add class member : Component C1 Tantal-kondensatorer

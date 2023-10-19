@@ -1,0 +1,7 @@
+Change component parameters: Designator = "*" ("*"); Footprint = "SOIC-8"; UniqueID = "\XCAOPWTT" ("\XCAOPWTT")
+Added Component: Designator=*(TAJ seris)
+Added Component: Designator=*(Potentiometer_Bourns_3214J_Horizontal)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.no/no/products/detail/bourns-inc/3214W-1-503E/248433?s=N4IgTCBcDaIEIHkCqAlAcgZQAQGYwEYAWAdQFp9SBWABhwFEQBdAXyA"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=schematic Member=Component * TAJD107K020RNJ
+Added Member To Class: ClassName=schematic Member=Component * R_POT_US
