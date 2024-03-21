@@ -117,40 +117,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EYLPAZAD
 
 [Document5]
-DocumentPath=lib\component-library\cpu.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LDVEIVUV
-
-[Document6]
-DocumentPath=lib\component-library\cpu.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZNAAJANV
-
-[Document7]
 DocumentPath=lib\component-library\diode.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document6]
 DocumentPath=lib\component-library\diode.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document7]
 DocumentPath=lib\component-library\integrated-circuit.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document8]
 DocumentPath=lib\component-library\integrated-circuit.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=lib\component-library\miscellaneous.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=lib\component-library\miscellaneous.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=lib\component-library\oscillator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=lib\component-library\oscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=lib\component-library\passive.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHTFMBCV
 
-[Document16]
+[Document14]
 DocumentPath=lib\component-library\passive.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BLDUIPCI
 
-[Document17]
+[Document15]
 DocumentPath=lib\component-library\sensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document16]
 DocumentPath=lib\component-library\sensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKJMYYND
 
-[Document19]
+[Document17]
 DocumentPath=lib\component-library\transistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document18]
 DocumentPath=lib\component-library\transistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document19]
 DocumentPath=lib\component-library\voltage-regulator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFEFBKTQ
 
-[Document22]
+[Document20]
 DocumentPath=lib\component-library\voltage-regulator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -422,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document21]
 DocumentPath=lib\component-library\nixie_kok.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,7 +405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TCHXIMFX
 
-[Document24]
+[Document22]
 DocumentPath=lib\component-library\nixie_kok.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,7 +422,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HACWHGPI
 
-[Document25]
+[Document23]
 DocumentPath=lib\component-library\nixie.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -473,7 +439,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNSIYCLB
 
-[Document26]
+[Document24]
 DocumentPath=lib\component-library\nixie.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -489,6 +455,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VMFCXCZG
+
+[Document25]
+DocumentPath=lib\component-library\cpu.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document26]
+DocumentPath=lib\component-library\cpu.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
