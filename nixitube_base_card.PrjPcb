@@ -250,7 +250,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GGEDWUCX
 
 [Document13]
 DocumentPath=lib\component-library\passive.PcbLib
@@ -386,7 +386,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LUDSASHP
 
 [Document21]
 DocumentPath=lib\component-library\nixie_kok.PcbLib
