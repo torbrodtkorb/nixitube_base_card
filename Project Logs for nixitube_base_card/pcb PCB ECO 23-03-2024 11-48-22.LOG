@@ -1,0 +1,141 @@
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Add Component: Footprint Not Found TAJ seris
+Added Component: Designator=C14(capacitor 0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(capacitor 0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(capacitor 0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(4.7uF 250V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/en/products/detail/kemet/A759KS475M2EAAE496/6196534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF 250V"; VariantName = "[No Variations]"
+Added Component: Designator=J2(BarrelJack)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.no/en/products/detail/cui-devices/PJ-002A/96962"; VariantName = "[No Variations]"
+Added Component: Designator=L1(SRR1210-101M)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.ca/en/products/detail/bourns-inc/SRR1210-101M/2352898"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uH"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(IRF740STRLPBF)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/en/products/detail/vishay-siliconix/IRF740STRLPBF/856617?s=N4IgTCBcDaIAQB0AuBJASgMQOwBYAMAygCpoAyACgEIYgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "velue"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(resistor 0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1R"; VariantName = "[No Variations]"
+Added Component: Designator=R13(potmeter 3314G-1-502E)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "5kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.no/no/products/detail/bourns-inc/3314G-1-502E/86462"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "New link 1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(resistor 0805)
+Add component (AddParameter): Name = "Link"; Value = "https://www.digikey.no/en/products/detail/thin-film-technology-corp/D1WEL0805CR050F-T5/16735407"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.05R"; VariantName = "[No Variations]"
+Added Component: Designator=R15(resistor 0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U4(HV5630PJ)
+Added Component: Designator=U5(HV5630PJ)
+Added Component: Designator=U6(HV5630PJ)
+Added Component: Designator=U7(SOIC-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://no.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX1771CSA+?qs=1THa7WoU59HAVajYWe%2BFOg%3D%3D&utm_source=OEMSecrets&utm_medium=aggregator&utm_campaign=MAX1771CSA+&utm_term=MAX1771CSA&utm_content=Analog+Devices+Inc."; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=U4-24
+Added Pin To Net: NetName=GND Pin=U5-24
+Added Pin To Net: NetName=GND Pin=U6-24
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=12V Pin=C14-2
+Added Pin To Net: NetName=12V Pin=J2-1
+Added Pin To Net: NetName=12V Pin=L1-1
+Added Pin To Net: NetName=12V Pin=U7-2
+Added Net: Name=12V
+Added Pin To Net: NetName=180V Pin=C15-2
+Added Pin To Net: NetName=180V Pin=C17-1
+Added Pin To Net: NetName=180V Pin=L1-2
+Added Pin To Net: NetName=180V Pin=Q3-2
+Added Pin To Net: NetName=180V Pin=R12-2
+Added Net: Name=180V
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=U7-5
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=U7-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R14-2
+Added Pin To Net: NetName=NetQ3_3 Pin=U7-8
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=R13-3
+Added Pin To Net: NetName=NetR12_1 Pin=U7-3
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-2
+Added Pin To Net: NetName=NetR13_1 Pin=R15-2
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetU4_18 Pin=U4-18
+Added Pin To Net: NetName=NetU4_18 Pin=U5-27
+Added Net: Name=NetU4_18
+Added Pin To Net: NetName=NetU5_18 Pin=U5-18
+Added Pin To Net: NetName=NetU5_18 Pin=U6-27
+Added Net: Name=NetU5_18
+Added Pin To Net: NetName=shutdown Pin=U7-4
+Added Net: Name=shutdown
+Add Class Member: Failed to add class member : Component C13 Tantal-kondensatorer
+Added Member To Class: ClassName=schematic Member=Component C14 passive_5
+Added Member To Class: ClassName=schematic Member=Component C15 passive_5
+Added Member To Class: ClassName=schematic Member=Component C16 passive_5
+Added Member To Class: ClassName=schematic Member=Component C17 cappacitor
+Added Member To Class: ClassName=schematic Member=Component J2 dc-jack
+Added Member To Class: ClassName=schematic Member=Component L1 SRR1210-101M
+Added Member To Class: ClassName=schematic Member=Component Q3 regulator_5
+Added Member To Class: ClassName=schematic Member=Component R12 passive_2
+Added Member To Class: ClassName=schematic Member=Component R13 potmeter 3314G-1-502E
+Added Member To Class: ClassName=schematic Member=Component R14 passive_3
+Added Member To Class: ClassName=schematic Member=Component R15 passive_2
+Added Member To Class: ClassName=schematic Member=Component U4 HV5630PJ
+Added Member To Class: ClassName=schematic Member=Component U5 HV5630PJ
+Added Member To Class: ClassName=schematic Member=Component U6 HV5630PJ
+Added Member To Class: ClassName=schematic Member=Component U7 MAX1771
