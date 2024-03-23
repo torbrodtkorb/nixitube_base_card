@@ -182,7 +182,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EYLTHQHW
 
 [Document9]
 DocumentPath=lib\component-library\miscellaneous.PcbLib
@@ -488,7 +488,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZNAAJANV
 
 [Configuration1]
 Name=Sources
