@@ -1,0 +1,62 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J4
+Change Component Designator: OldDesignator=J2 NewDesignator=J5
+Change Component Designator: OldDesignator=J3 NewDesignator=J6
+Change Component Designator: OldDesignator=J4 NewDesignator=J7
+Change Component Designator: OldDesignator=J5 NewDesignator=J8
+Added Component: Designator=J1(9159 edge connector)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.no/en/products/detail/kyocera-avx/009159012651906/15995075"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(9159 edge connector)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.no/en/products/detail/kyocera-avx/009159012651906/15995075"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(9159 edge connector)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.no/en/products/detail/kyocera-avx/009159012651906/15995075"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetJ5_A5 New Net Name=NetJ8_A5
+Change Net Name : Old Net Name=NetJ5_B5 New Net Name=NetJ8_B5
+Added Member To Class: ClassName=schematic Member=Component C4 Tantal-kondensatorer
+Added Member To Class: ClassName=schematic Member=Component C6 passive_5
+Added Member To Class: ClassName=schematic Member=Component C8 passive_5
+Added Member To Class: ClassName=schematic Member=Component C10 passive_5
+Added Member To Class: ClassName=schematic Member=Component C14 passive_5
+Added Member To Class: ClassName=schematic Member=Component C15 passive_5
+Added Member To Class: ClassName=schematic Member=Component C16 passive_5
+Added Member To Class: ClassName=schematic Member=Component C17 passive_5
+Added Member To Class: ClassName=schematic Member=Component C18 passive_5
+Added Member To Class: ClassName=schematic Member=Component C19 passive_5
+Added Member To Class: ClassName=schematic Member=Component C20 passive_5
+Added Member To Class: ClassName=schematic Member=Component J1 Header 2mm
+Added Member To Class: ClassName=schematic Member=Component J2 Header 2mm
+Added Member To Class: ClassName=schematic Member=Component J6 Header 2mm
+Added Member To Class: ClassName=schematic Member=Component J7 dc-jack
+Added Member To Class: ClassName=schematic Member=Component J8 USB 2.0
+Added Member To Class: ClassName=schematic Member=Component Q1 regulator_5
+Added Member To Class: ClassName=schematic Member=Component Q3 transistor_7
+Added Member To Class: ClassName=schematic Member=Component R1 passive_2
+Added Member To Class: ClassName=schematic Member=Component R3 passive_3
+Added Member To Class: ClassName=schematic Member=Component R5 passive_2
+Added Member To Class: ClassName=schematic Member=Component R6 passive_2
+Added Member To Class: ClassName=schematic Member=Component R7 passive_2
+Added Member To Class: ClassName=schematic Member=Component R8 passive_2
+Added Member To Class: ClassName=schematic Member=Component R9 passive_2
+Added Member To Class: ClassName=schematic Member=Component R10 passive_2
+Added Member To Class: ClassName=schematic Member=Component R11 passive_2
+Added Member To Class: ClassName=schematic Member=Component R12 passive_2
+Added Member To Class: ClassName=schematic Member=Component R14 passive_2
+Added Member To Class: ClassName=schematic Member=Component U2 cpu_7
+Added Member To Class: ClassName=schematic Member=Component U3 MC14504BDTR2G
+Added Member To Class: ClassName=schematic Member=Component U4 FTDI
+Added Member To Class: ClassName=schematic Member=Component U6 HV5630PJ
+Added Member To Class: ClassName=schematic Member=Component U7 HV5630PJ
