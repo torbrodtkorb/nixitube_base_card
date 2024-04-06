@@ -1,0 +1,138 @@
+Removed Pin From Net: NetName=12V_SHIFT_POL Pin=U7-22
+Removed Pin From Net: NetName=12V_SHIFT_CLK Pin=U7-23
+Removed Pin From Net: NetName=GND Pin=U7-24
+Removed Pin From Net: NetName=12V Pin=U7-25
+Removed Pin From Net: NetName=12V_SHIFT_LE Pin=U7-26
+Removed Pin From Net: NetName=12V_SHIFT_BL Pin=U7-28
+Removed Member From Class: ClassName=schematic Member=U7
+Added Pin To Net: NetName=ANODE_170 Pin=J1-12
+Added Net: Name=ANODE_170
+Added Pin To Net: NetName=ANODE_171 Pin=J2-12
+Added Net: Name=ANODE_171
+Added Pin To Net: NetName=ANODE_172 Pin=J3-12
+Added Net: Name=ANODE_172
+Added Pin To Net: NetName=ANODE_173 Pin=J4-12
+Added Pin To Net: NetName=ANODE_173 Pin=J5-12
+Added Pin To Net: NetName=ANODE_173 Pin=J6-12
+Added Net: Name=ANODE_173
+Added Pin To Net: NetName=D1_0 Pin=J1-1
+Added Net: Name=D1_0
+Added Pin To Net: NetName=D1_1 Pin=J1-2
+Added Net: Name=D1_1
+Added Pin To Net: NetName=D1_2 Pin=J1-3
+Added Net: Name=D1_2
+Added Pin To Net: NetName=D1_3 Pin=J1-4
+Added Net: Name=D1_3
+Added Pin To Net: NetName=D1_4 Pin=J1-5
+Added Net: Name=D1_4
+Added Pin To Net: NetName=D1_5 Pin=J1-6
+Added Net: Name=D1_5
+Added Pin To Net: NetName=D1_6 Pin=J1-7
+Added Net: Name=D1_6
+Added Pin To Net: NetName=D1_7 Pin=J1-8
+Added Net: Name=D1_7
+Added Pin To Net: NetName=D1_8 Pin=J1-9
+Added Net: Name=D1_8
+Added Pin To Net: NetName=D1_9 Pin=J1-10
+Added Net: Name=D1_9
+Added Pin To Net: NetName=D2_0 Pin=J2-1
+Added Net: Name=D2_0
+Added Pin To Net: NetName=D2_1 Pin=J2-2
+Added Net: Name=D2_1
+Added Pin To Net: NetName=D2_2 Pin=J2-3
+Added Net: Name=D2_2
+Added Pin To Net: NetName=D2_3 Pin=J2-4
+Added Net: Name=D2_3
+Added Pin To Net: NetName=D2_4 Pin=J2-5
+Added Net: Name=D2_4
+Added Pin To Net: NetName=D2_5 Pin=J2-6
+Added Net: Name=D2_5
+Added Pin To Net: NetName=D2_6 Pin=J2-7
+Added Net: Name=D2_6
+Added Pin To Net: NetName=D2_7 Pin=J2-8
+Added Net: Name=D2_7
+Added Pin To Net: NetName=D2_8 Pin=J2-9
+Added Net: Name=D2_8
+Added Pin To Net: NetName=D2_9 Pin=J2-10
+Added Net: Name=D2_9
+Added Pin To Net: NetName=D3_0 Pin=J3-1
+Added Net: Name=D3_0
+Added Pin To Net: NetName=D3_1 Pin=J3-2
+Added Net: Name=D3_1
+Added Pin To Net: NetName=D3_2 Pin=J3-3
+Added Net: Name=D3_2
+Added Pin To Net: NetName=D3_3 Pin=J3-4
+Added Net: Name=D3_3
+Added Pin To Net: NetName=D3_4 Pin=J3-5
+Added Net: Name=D3_4
+Added Pin To Net: NetName=D3_5 Pin=J3-6
+Added Net: Name=D3_5
+Added Pin To Net: NetName=D3_6 Pin=J3-7
+Added Net: Name=D3_6
+Added Pin To Net: NetName=D3_7 Pin=J3-8
+Added Net: Name=D3_7
+Added Pin To Net: NetName=D3_8 Pin=J3-9
+Added Net: Name=D3_8
+Added Pin To Net: NetName=D3_9 Pin=J3-10
+Added Net: Name=D3_9
+Added Pin To Net: NetName=D4_0 Pin=J4-1
+Added Net: Name=D4_0
+Added Pin To Net: NetName=D4_1 Pin=J4-2
+Added Net: Name=D4_1
+Added Pin To Net: NetName=D4_2 Pin=J4-3
+Added Net: Name=D4_2
+Added Pin To Net: NetName=D4_3 Pin=J4-4
+Added Net: Name=D4_3
+Added Pin To Net: NetName=D4_4 Pin=J4-5
+Added Net: Name=D4_4
+Added Pin To Net: NetName=D4_5 Pin=J4-6
+Added Net: Name=D4_5
+Added Pin To Net: NetName=D4_6 Pin=J4-7
+Added Net: Name=D4_6
+Added Pin To Net: NetName=D4_7 Pin=J4-8
+Added Net: Name=D4_7
+Added Pin To Net: NetName=D4_8 Pin=J4-9
+Added Net: Name=D4_8
+Added Pin To Net: NetName=D4_9 Pin=J4-10
+Added Net: Name=D4_9
+Added Pin To Net: NetName=D5_0 Pin=J5-1
+Added Net: Name=D5_0
+Added Pin To Net: NetName=D5_1 Pin=J5-2
+Added Net: Name=D5_1
+Added Pin To Net: NetName=D5_2 Pin=J5-3
+Added Net: Name=D5_2
+Added Pin To Net: NetName=D5_3 Pin=J5-4
+Added Net: Name=D5_3
+Added Pin To Net: NetName=D5_4 Pin=J5-5
+Added Net: Name=D5_4
+Added Pin To Net: NetName=D5_5 Pin=J5-6
+Added Net: Name=D5_5
+Added Pin To Net: NetName=D5_6 Pin=J5-7
+Added Net: Name=D5_6
+Added Pin To Net: NetName=D5_7 Pin=J5-8
+Added Net: Name=D5_7
+Added Pin To Net: NetName=D5_8 Pin=J5-9
+Added Net: Name=D5_8
+Added Pin To Net: NetName=D5_9 Pin=J5-10
+Added Net: Name=D5_9
+Added Pin To Net: NetName=D6_0 Pin=J6-1
+Added Net: Name=D6_0
+Added Pin To Net: NetName=D6_1 Pin=J6-2
+Added Net: Name=D6_1
+Added Pin To Net: NetName=D6_2 Pin=J6-3
+Added Net: Name=D6_2
+Added Pin To Net: NetName=D6_3 Pin=J6-4
+Added Net: Name=D6_3
+Added Pin To Net: NetName=D6_4 Pin=J6-5
+Added Net: Name=D6_4
+Added Pin To Net: NetName=D6_5 Pin=J6-6
+Added Net: Name=D6_5
+Added Pin To Net: NetName=D6_6 Pin=J6-7
+Added Net: Name=D6_6
+Added Pin To Net: NetName=D6_7 Pin=J6-8
+Added Net: Name=D6_7
+Added Pin To Net: NetName=D6_8 Pin=J6-9
+Added Net: Name=D6_8
+Added Pin To Net: NetName=D6_9 Pin=J6-10
+Added Net: Name=D6_9
+Added Member To Class: ClassName=schematic Member=Component C? passive_5
