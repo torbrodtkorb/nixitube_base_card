@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=180V Pin=D?-2
+Removed Member From Class: ClassName=schematic Member=D?
+Removed Member From Class: ClassName=schematic Member=R?
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=R8 NewDesignator=R14
+Change Component Designator: OldDesignator=R9 NewDesignator=R15
+Change Component Designator: OldDesignator=R10 NewDesignator=R17
+Change Component Designator: OldDesignator=R11 NewDesignator=R18
+Change Component Designator: OldDesignator=R12 NewDesignator=R20
+Change Component Designator: OldDesignator=R13 NewDesignator=R21
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=TP_? NewDesignator=TP_2
+Change Component Designator: OldDesignator=U8 NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Added Component: Designator=D1(ES2F-E3/52T)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.no/en/products/detail/vishay-general-semiconductor-diodes-division/ES2F-E3-52T/1091445?s=N4IgTCBcDaIAQB0AuBRAymAYgWhQZgHoBWMAFRAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=180V Pin=D1-2
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR21_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=L1-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-2
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=schematic Member=Component C22 passive_5
+Added Member To Class: ClassName=schematic Member=Component D1 ES2F-E3/52T
+Added Member To Class: ClassName=schematic Member=Component R16 passive_2
+Added Member To Class: ClassName=schematic Member=Component R17 passive_2
+Added Member To Class: ClassName=schematic Member=Component R18 passive_2
+Added Member To Class: ClassName=schematic Member=Component R19 passive_2
+Added Member To Class: ClassName=schematic Member=Component R20 passive_2
+Added Member To Class: ClassName=schematic Member=Component R21 passive_2
